@@ -1,0 +1,29 @@
+{
+  "name": "shorte.st",
+  "version": "0.1.3",
+  "description": "NodeJS lib for Shorte.st",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sielay/shortestnode.git"
+  },
+  "keywords": [
+    "shorte.st",
+    "link",
+    "short",
+    "shortener",
+    "monetization"
+  ],
+  "author": "lukaszsielski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sielay/shortestnode/issues"
+  },
+  "homepage": "https://github.com/sielay/shortestnode",
+  "devDependencies": {
+    "mocha": "~2.1.0"
+  }
+}
